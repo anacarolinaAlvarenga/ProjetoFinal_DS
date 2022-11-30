@@ -1,0 +1,7 @@
+D:\ProjetoApolices_final\ProjetoApolices_final\obj\Debug\ProjetoApolices_final.csprojAssemblyReference.cache
+D:\ProjetoApolices_final\ProjetoApolices_final\obj\Debug\ProjetoApolices_final.csproj.CoreCompileInputs.cache
+D:\ProjetoApolices_final\ProjetoApolices_final\bin\Debug\ProjetoApolices_final.exe.config
+D:\ProjetoApolices_final\ProjetoApolices_final\bin\Debug\ProjetoApolices_final.exe
+D:\ProjetoApolices_final\ProjetoApolices_final\bin\Debug\ProjetoApolices_final.pdb
+D:\ProjetoApolices_final\ProjetoApolices_final\obj\Debug\ProjetoApolices_final.exe
+D:\ProjetoApolices_final\ProjetoApolices_final\obj\Debug\ProjetoApolices_final.pdb
